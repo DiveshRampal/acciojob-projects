@@ -1,0 +1,30 @@
+ h1{
+    text-decoration: underline;
+    
+
+}
+a {
+    color: black;
+}
+
+.top-most{
+    border:2px solid black;
+    text-align:justify;
+    padding: 6px;
+    margin:10px;
+}
+
+img{
+    width: 400px;
+    height: 300px;
+    margin:10px;
+}
+
+.top-most p{
+    font-size: 1.1rem;
+    color: black
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
